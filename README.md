@@ -12,5 +12,6 @@ In this repository, I want to periodically upload solved tasks that at a certain
 A list of tasks I liked and short descriptions.
 
 - 03.05.2023 **The sieve of Eratosthenes**. It was not so much difficult to cope with the language as to realize the principle of the algorithm.
+- 05.05.2023 **My mini grep function**. Here I wanted to try to figure out how to pass arguments to a file. For example, I took the grep function, which should find the index of the inclusion of a template in a word.
 
 > Do what you can, with what you have, where you are. (Theodore Roosevelt)
